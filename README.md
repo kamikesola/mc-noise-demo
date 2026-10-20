@@ -8,9 +8,7 @@
 
 ![六版本对比](screenshots/comparison.jpg)
 
-配套文章：[从随机数到 NormalNoise：《我的世界》的地形为什么既随机又自然？](https://zhuanlan.zhihu.com/p/your-article-id)
-
-> 文章链接是占位，发布时替换成实际地址。
+配套文章：待发布（发布后把知乎链接补到这里）。
 
 ## 运行
 
