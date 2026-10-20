@@ -1,6 +1,7 @@
 # MC Noise Demo
 
-仓库：<https://github.com/kamikesola/mc-noise-demo>
+仓库（网页）：<https://github.com/kamikesola/mc-noise-demo>  
+git clone：<https://github.com/kamikesola/mc-noise-demo.git>
 
 《我的世界》地形噪声演示：从随机数、正弦、值噪声，到 `ImprovedNoise`、`PerlinNoise`、`NormalNoise`。
 
