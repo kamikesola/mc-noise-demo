@@ -1,5 +1,7 @@
 # MC Noise Demo
 
+仓库：<https://github.com/kamikesola/mc-noise-demo>
+
 《我的世界》地形噪声演示：从随机数、正弦、值噪声，到 `ImprovedNoise`、`PerlinNoise`、`NormalNoise`。
 
 同一个 seed、同一个镜头下，六种高度函数并排对比：

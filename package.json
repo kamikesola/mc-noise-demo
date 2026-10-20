@@ -4,6 +4,14 @@
   "private": true,
   "description": "Minecraft 1.21.1 噪声地形演示：随机数、正弦、值噪声、ImprovedNoise、PerlinNoise、NormalNoise",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikesola/mc-noise-demo.git"
+  },
+  "homepage": "https://github.com/kamikesola/mc-noise-demo",
+  "bugs": {
+    "url": "https://github.com/kamikesola/mc-noise-demo/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
